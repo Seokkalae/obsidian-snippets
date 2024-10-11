@@ -9,3 +9,4 @@ This repository contains various CSS snippets for Obsidian that were written or 
 # Snippets List
 - [Seokkalae Banner and Icon](doc/seokkalae-banner-and-icon.md) - adds support for a banner and icon in Obsidian. Also includes support for exporting to PDF.
 - [Seokkalae Print Frontmatter](doc/seokkalae-print-frontmatter.md) - print frontmatter when exporting to PDF.
+- [Hide Specific Property](doc/hide-specific-property.md) - allows you to hide specific ***frontmatter*** properties.

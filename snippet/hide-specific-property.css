@@ -1,0 +1,12 @@
+/* 
+Source - https://github.com/Seokkalae/obsidian-snippets/blob/master/snippet/hide-specific-property.css
+*/
+
+.markdown-reading-view .hide-specific-property {
+
+    /* hide cssclasses */
+    .metadata-property[data-property-key="cssclasses"] {
+        display: none;
+    }
+
+}
