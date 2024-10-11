@@ -1,3 +1,7 @@
+/*
+Source - https://github.com/Seokkalae/obsidian-snippets/blob/master/doc/seokkalae-print-frontmatter.md
+*/
+
 @media print {
     .markdown-preview-view.seokkalae-print-frontmatter pre.frontmatter {
         display: flex !important;
